@@ -7,7 +7,7 @@ Three days, 14 hours: what it means to learn from data, how not to fool yourself
 
 | Day | Topic | When | Slides | Hands-on |
 |---|---|---|---|---|
-| 1 | **Learning from Data**<br>Loss functions, gradient descent, linear and logistic regression | Monday 9 November, 09:00–13:15 | soon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/myscience/intro-ml-mdmc-2026/blob/main/notebooks/N1_gradient_descent.ipynb) |
+| 1 | **Learning from Data**<br>Loss functions, gradient descent, linear and logistic regression | Monday 9 November, 09:00–13:15 | [PDF](slides/Day1_Learning_from_Data.pdf) · [PPTX](slides/Day1_Learning_from_Data.pptx) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/myscience/intro-ml-mdmc-2026/blob/main/notebooks/N1_gradient_descent.ipynb) |
 | 2 | **Not Fooling Yourself**<br>Overfitting, validation, regularisation, honest evaluation | Tuesday 10 November, 09:00–13:15 | soon | soon |
 | 3 | **Beyond the Straight Line**<br>Nearest neighbours, SVMs, trees and forests, clustering, PCA, intrinsic dimension, DeepLabCut | Thursday 12 November, 09:00–16:30 | soon | soon |
 
